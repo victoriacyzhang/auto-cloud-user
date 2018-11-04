@@ -2,4 +2,4 @@
 
 # generate a key pair named newKey
 
-ssh-keygen -t rsa
+echo "new" | ssh-keygen -t rsa
