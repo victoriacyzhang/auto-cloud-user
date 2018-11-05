@@ -80,4 +80,4 @@ sudo mkdir /Volumes/pegasus_R6/data/ftp_server/active/$FOLDERNAME
 sudo chown -R $USERNAME /Volumes/pegasus_R6/data/ftp_server/active/$FOLDERNAME
 sudo chown -R $USERNAME /Users/$USERNAME
 
-echo "Done."
+echo "Done. The private key is now a file called new on the desktop."
